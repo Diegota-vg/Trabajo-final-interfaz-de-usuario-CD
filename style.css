@@ -122,12 +122,6 @@ a {
   border-radius: 8px;
 }
 
-.project-card img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  border-radius: 8px;
-  display: block;
 
 /* Sección extra */
 .timeline {
@@ -214,5 +208,6 @@ input, textarea {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
 
 
