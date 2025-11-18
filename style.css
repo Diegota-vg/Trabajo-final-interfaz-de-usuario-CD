@@ -170,10 +170,8 @@ input, textarea {
   font-size: 0.9rem;
 }
 ol {
-  font-size:0.7rem;
-  padding-left: 1rem;
-  border-left: 2px solid #ffd700;
-  
+  font-size:0.8rem;
+   
 }
 
 /* Desktop */
@@ -213,4 +211,5 @@ ol {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
 
