@@ -169,6 +169,12 @@ input, textarea {
   border-top: 1px solid #222;
   font-size: 0.9rem;
 }
+ol {
+  font-size:0.7rem;
+  padding-left: 1rem;
+  border-left: 2px solid #ffd700;
+  
+}
 
 /* Desktop */
 @media (min-width: 768px) {
@@ -207,3 +213,4 @@ input, textarea {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
