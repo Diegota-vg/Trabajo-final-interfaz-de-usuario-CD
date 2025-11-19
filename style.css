@@ -30,6 +30,7 @@ a {
   top: 0; left: 0; right: 0;
   border-bottom: 1px solid #222;
   z-index: 1000;
+  backdrop-filter:blur(10px);
 }
 
 .header-inner {
@@ -211,5 +212,6 @@ ol {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
 
 
